@@ -1,4 +1,4 @@
-#include "main..h"
+#include "main.h"
 /**
  * print_char - Prints character
  * @list: list of arguments
@@ -70,3 +70,4 @@ int unsigned_integer(va_list list)
 		return (-1);
 	return (print_unsgined_number(num));
 }
+
